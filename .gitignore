@@ -1,0 +1,8 @@
+aira_env/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+models/best.pt
+.vscode/
+.python-version
